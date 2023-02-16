@@ -1,2 +1,0 @@
-when calling node tests.js 'Hello Node' From the command line
-we get hello node grouped together and the rest as separate args in the array
